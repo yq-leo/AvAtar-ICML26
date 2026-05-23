@@ -30,30 +30,28 @@
 
 ### ⚖️ Good balance between effectivness and efficieny
 
-<div style="display: flex; gap: 5px; width: 100%; align-items: flex-start;">
+<!-- Main figure -->
+<p align="center">
+  <img src="figs/efficiency.png"
+       alt="efficiency.png"
+       width="80%">
+</p>
 
-  <!-- First image: 50% -->
-  <div style="flex: 2;">
-    <img src="figs/efficiency.png"
-         alt="efficiency.png"
-         style="width: 100%; object-fit: contain;">
-  </div>
-
-  <!-- Second image: 25% -->
-  <div style="flex: 1;">
-    <img src="figs/conv1.png"
-         alt="conv1.png"
-         style="width: 100%; object-fit: contain;">
-  </div>
-
-  <!-- Third image: 25% -->
-  <div style="flex: 1;">
-    <img src="figs/conv2.png"
-         alt="conv2.png"
-         style="width: 100%; object-fit: contain;">
-  </div>
-
-</div>
+<!-- Two figures side-by-side -->
+<table>
+  <tr>
+    <td width="50%">
+      <img src="figs/conv1.png"
+           alt="conv1.png"
+           width="100%">
+    </td>
+    <td width="50%">
+      <img src="figs/conv2.png"
+           alt="conv2.png"
+           width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
