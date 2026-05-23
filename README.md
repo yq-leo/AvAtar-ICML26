@@ -1,7 +1,7 @@
 # AvAtar: Learning to Align via Active Optimal Transport
 
 <div align="center">
-    <a href="">
+    <a href="https://github.com/yq-leo">
     <img src="https://img.shields.io/static/v1?label=ICML'26&message=Paper&color=red"></a>
     <!-- <a href="https://github.com/yq-leo/PlanetAlign/blob/main/LICENSE.txt"><img src="https://badgen.net/github/license/yq-leo/PlanetAlign?color=green"></a> -->
     <a href="https://github.com/yq-leo/AvAtar-ICML26/blob/main/LICENSE.txt"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
@@ -30,28 +30,25 @@
 
 ### ⚖️ Good balance between effectivness and efficieny
 
-<!-- Main figure -->
 <p align="center">
   <img src="figs/efficiency.png"
        alt="efficiency.png"
-       width="80%">
+       width="90%">
 </p>
 
-<!-- Two figures side-by-side -->
-<table>
-  <tr>
-    <td width="50%">
-      <img src="figs/conv1.png"
-           alt="conv1.png"
-           width="100%">
-    </td>
-    <td width="50%">
-      <img src="figs/conv2.png"
-           alt="conv2.png"
-           width="100%">
-    </td>
-  </tr>
-</table>
+### 💪 Robustness to different parameter settings
+
+<p align="center">
+  <img src="figs/param1.png"
+       alt="param1.png"
+       width="90%">
+</p>
+
+<p align="center">
+  <img src="figs/param2.png"
+       alt="param2.png"
+       width="90%">
+</p>
 
 ---
 
