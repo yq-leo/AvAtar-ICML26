@@ -8,28 +8,25 @@
     <a href="https://github.com/yq-leo/PlanetAlign"><img src="https://img.shields.io/badge/PRs-Welcome-blue.svg"></a>
 </div>
 
-Welcome to the offical repository of AvAtar, an active learning framework for optimal-transport-based alignment algorithms.
+👋 Welcome to the offical repository of AvAtar, an active learning framework for optimal-transport-based alignment algorithms.
 
 ---
 
 ## Results
 ### 🚀 SOTA effectiveness across 3 different alignment tasks
 
-<div style="display: flex; gap: 16px; width: 100%; align-items: stretch;">
-  <div style="flex: 1; display: flex;">
-    <img src="figs/bench_na.png"
-         alt="bench_na.png"
-         style="width: 100%; object-fit: contain;">
-  </div>
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 16px;">
-    <img src="figs/bench_itr.png"
-         alt="bench_itr.png"
-         style="width: 100%; flex: 1; object-fit: cover;">
-    <img src="figs/bench_itg.png"
-         alt="bench_itg.png"
-         style="width: 100%; flex: 1; object-fit: cover;">
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="figs/bench_na.png" alt="bench_na.png" width="100%">
+    </td>
+    <td width="50%">
+      <img src="figs/bench_itr.png" alt="bench_itr.png" width="100%">
+      <br>
+      <img src="figs/bench_itg.png" alt="bench_itg.png" width="100%">
+    </td>
+  </tr>
+</table>
 
 ### ⚖️ Good balance between effectivness and efficieny
 
