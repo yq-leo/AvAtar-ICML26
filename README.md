@@ -1,7 +1,7 @@
 # AvAtar: Learning to Align via Active Optimal Transport
 
 <div align="center">
-    <a href="https://github.com/yq-leo">
+    <a href="https://arxiv.org/abs/2605.24395">
     <img src="https://img.shields.io/static/v1?label=ICML'26&message=Paper&color=red"></a>
     <!-- <a href="https://github.com/yq-leo/PlanetAlign/blob/main/LICENSE.txt"><img src="https://badgen.net/github/license/yq-leo/PlanetAlign?color=green"></a> -->
     <a href="https://github.com/yq-leo/AvAtar-ICML26/blob/main/LICENSE.txt"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
@@ -101,4 +101,12 @@ python source/active_itg.py
 
 ## Citation
 If you find our work useful for your research, please consider citing AvAtar with the following bibtex:
+``` bibtex
+@article{yu2025avatar,
+  title={AvAtar: Learning to Align via Active Optimal Transport},
+  author={Yu, Qi and Qiu, Ruizhong and Zeng, Zhichen and Thai, My T. and Liu, Huan and Tong, Hanghang},
+  journal={arXiv preprint arXiv:2605.24395},
+  year={2026}
+}
+```
 
